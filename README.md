@@ -12,3 +12,9 @@ My contacts 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Izadora%20Oliveira-751BF8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izadora-oliveira/)](https://www.linkedin.com/in/izadora-oliveira/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FC0053?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iza.dev/)](https://www.instagram.com/iza.dev/)
 
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iiizadora&show_icons=true&theme=radical" /></a>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiizadora&layout=compact&theme=radical" /></a>
+
+
