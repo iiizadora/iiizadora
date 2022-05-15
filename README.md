@@ -4,7 +4,7 @@ I'm from Brazil 🟢🇧🇷 🟡
 
 I'm passionate about technology and programming.
 
->**A civil engineer in career transition to the front-end development area.**
+>**A QA inter in career transition for the front-end development area.**
 
 👩🏽‍💻 I’m currently learning about HTML5, CSS, JS and React 🚀
  
